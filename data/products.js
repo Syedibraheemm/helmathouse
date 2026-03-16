@@ -129,19 +129,9 @@ export const products = [
     featured: true,
     isNewArrival: true
   },
+
   {
     id: "acc003",
-    name: "RiderLink Intercom",
-    category: "accessories",
-    price: "Rs 17800",
-    image1: "/products/riderlink-intercom-1.svg",
-    image2: "/products/riderlink-intercom-2.svg",
-    description: "Helmet-ready intercom and headset kit with clean voice pickup.",
-    featured: true,
-    isNewArrival: true
-  },
-  {
-    id: "acc004",
     name: "AeroShield Helmet Cover",
     category: "accessories",
     price: "Rs 2100",
