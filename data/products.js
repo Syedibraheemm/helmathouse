@@ -61,7 +61,7 @@ export const products = [
     image2: "/products/mod1.2.webp",
     description: "Flip-up modular build with integrated sun visor and touring comfort padding.",
     featured: true,
-    isNewArrival: true
+    isNewArrival: false
   },
   {
     id: "helmet006",
