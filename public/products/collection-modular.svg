@@ -1,0 +1,19 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='900' viewBox='0 0 1200 900' fill='none'>
+  <defs>
+    <linearGradient id='g1' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#0A0A0A'/>
+      <stop offset='50%' stop-color='#121212'/>
+      <stop offset='100%' stop-color='#153B26'/>
+    </linearGradient>
+    <radialGradient id='g2' cx='0.5' cy='0.5' r='0.7'>
+      <stop offset='0%' stop-color='#2EF57A' stop-opacity='0.4'/>
+      <stop offset='100%' stop-color='#2EF57A' stop-opacity='0'/>
+    </radialGradient>
+  </defs>
+  <rect width='1200' height='900' fill='url(#g1)'/>
+  <circle cx='950' cy='180' r='230' fill='url(#g2)'/>
+  <circle cx='260' cy='760' r='260' fill='url(#g2)'/>
+  <rect x='140' y='270' width='920' height='360' rx='34' fill='rgba(0,0,0,0.3)' stroke='rgba(46,245,122,0.35)' stroke-width='2'/>
+  <text x='600' y='440' fill='#F5F5F5' font-size='56' font-family='Poppins,Arial,sans-serif' text-anchor='middle'>COLLECTION MODULAR</text>
+  <text x='600' y='510' fill='#A3A3A3' font-size='28' font-family='Poppins,Arial,sans-serif' text-anchor='middle'>Helmet House Showcase Image</text>
+</svg>
