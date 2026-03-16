@@ -112,8 +112,8 @@ export const products = [
     name: "Armor Wire Lock",
     category: "accessories",
     price: "Rs 3200",
-    image1: "/products/armor-wire-lock-1.svg",
-    image2: "/products/armor-wire-lock-2.svg",
+    image1: "/products/acc1.1.jpg",
+    image2: "/products/acc1.jpg",
     description: "Braided wire lock system for quick parking security.",
     featured: true,
     isNewArrival: false
@@ -123,8 +123,8 @@ export const products = [
     name: "GripFlex Riding Gloves",
     category: "accessories",
     price: "Rs 5400",
-    image1: "/products/gripflex-gloves-1.svg",
-    image2: "/products/gripflex-gloves-2.svg",
+    image1: "/products/acc2.jpg",
+    image2: "/products/acc2.2.jpeg",
     description: "Ventilated gloves with reinforced palm support and knuckle protection.",
     featured: true,
     isNewArrival: true
@@ -135,8 +135,8 @@ export const products = [
     name: "AeroShield Helmet Cover",
     category: "accessories",
     price: "Rs 2100",
-    image1: "/products/aeroshield-cover-1.svg",
-    image2: "/products/aeroshield-cover-2.svg",
+    image1: "/products/acc3.jpeg",
+    image2: "/products/acc3.3.webp",
     description: "Dust and weather-resistant stretch cover for daily helmet protection.",
     featured: false,
     isNewArrival: false
