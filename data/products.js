@@ -138,7 +138,7 @@ export const products = [
     image1: "/products/acc3.jpeg",
     image2: "/products/acc3.3.webp",
     description: "Dust and weather-resistant stretch cover for daily helmet protection.",
-    featured: false,
+    featured: true,
     isNewArrival: false
   }
 ];
